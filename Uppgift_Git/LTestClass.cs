@@ -15,5 +15,6 @@ namespace Uppgift_Git
        
         private int x;
         private int y;
+        public string Name { get; set; }
     }
 }
