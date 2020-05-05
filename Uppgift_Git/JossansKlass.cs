@@ -6,7 +6,11 @@ namespace Uppgift_Git
 {
     class JossansKlass
     {
-        public int Super { get; set; }
+        public string SuperName { get; set; }
         public double Number { get; set; }
+        public JossansKlass()
+        {
+            //Mina ändringar
+        }
     }
 }
