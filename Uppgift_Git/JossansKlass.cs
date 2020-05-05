@@ -6,6 +6,6 @@ namespace Uppgift_Git
 {
     class JossansKlass
     {
-        public int Number { get; set; }
+        public double Number { get; set; }
     }
 }
