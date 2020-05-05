@@ -9,6 +9,8 @@ namespace Uppgift_Git
             Console.WriteLine("Hello World!");
 
             //hej svejs
+            Console.WriteLine("Héllö Wörld!");
+            Console.ReadLine();
         }
     }
 }
